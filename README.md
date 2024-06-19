@@ -1,4 +1,4 @@
-## Bank Loan Approval System
+## Loan Approval System
 This project is a Django-based web application for predicting bank loan approvals. It includes functionalities to handle user form submissions and evaluate loan approval status using a pre-trained machine learning model. 
 
 ### Features
