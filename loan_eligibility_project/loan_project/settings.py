@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'bankloan_app',
+    'loan_app',
     'crispy_forms',
     'crispy_bootstrap4'
 ]
@@ -75,7 +75,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'bankloan_project.wsgi.application'
+WSGI_APPLICATION = 'loan_project.wsgi.application'
 
 
 # Database
