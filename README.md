@@ -1,5 +1,5 @@
 ## Bank Loan Approval System
-This project is a Django-based web application for predicting bank loan approvals. It includes functionalities to handle user form submissions and evaluate loan approval status using a pre-trained machine learning model.
+This project is a Django-based web application for predicting bank loan approvals. It includes functionalities to handle user form submissions and evaluate loan approval status using a pre-trained machine learning model. 
 
 ### Features
 - User-friendly form to input loan application details.
@@ -8,5 +8,5 @@ This project is a Django-based web application for predicting bank loan approval
 - Messages to guide the user based on the loan amount.
 
 ### Model Building and Training
-The model was built, trained and evaluated using @Notebook
+The model was built, trained and evaluated using jupyter notebook in 'Notebook' folder.
 - Dataset: https://www.kaggle.com/datasets/hashemialii/bankloan?select=train.csv
